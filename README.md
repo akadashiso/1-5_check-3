@@ -4,8 +4,8 @@
 
 ### 【要件】
 １. headerタグ、h1タグ、navタグ、olタグ、liタグを用いる  
-headerタグの中にh1タグとnavタグがあり、navタグの中にolタグ、  
-olタグの中にliタグが4つある構成にする  
+   headerタグの中にh1タグとnavタグがあり、navタグの中にolタグ、  
+   olタグの中にliタグが4つある構成にする  
 ２. h1タグの中身は、EXAMPLE とする  
 ３. liタグの中身は、それぞれMENU1、MENU2、MENU3、MENU4 とする  
 ４. class名は、それぞれ"headline"、"nav"、"list"、"list-item"とする  
